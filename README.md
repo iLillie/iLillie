@@ -1,16 +1,15 @@
-### Hi there 👋
+![Header introduction with name](images/header.png)
 
-<!--
-**LillieRugtveit/LillieRugtveit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lillie (She/Her) a student at [GET Academy](https://www.getacademy.no/) working to become a full-stack developer.
 
-Here are some ideas to get you started:
+## About me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦊 I like to play Animal Crossing, Mario Kart and Minecraft.  
+🙌 New challenges always interests me.  
+📚 Languages I like:
+- 👓 C# 
+- ⌨️ TypeScript
+- 📄 HTML/CSS 
+- 🇷 Rust  
+
+🇳🇴 I live in Norway

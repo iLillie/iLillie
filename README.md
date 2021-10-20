@@ -11,5 +11,3 @@ I'm Lillie (She/Her) a student at [GET Academy](https://www.getacademy.no/) work
 - ⌨️ TypeScript
 - 📄 HTML/CSS 
 - 🇷 Rust  
-
-🇳🇴 I live in Norway

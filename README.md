@@ -1,6 +1,6 @@
 ![Header introduction with name](images/header.png)
 
-I'm Lillie (She/Her) a student at [GET Academy](https://www.getacademy.no/) working to become a full-stack developer.
+I'm Lillie (She/Her)
 
 ## About me  
 

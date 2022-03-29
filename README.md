@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core & Angular**
 
-- 👨‍💻 All of my projects are available at [lillie.work](lillie.work)
+- 👨‍💻 All of my projects are available at [lillie.work](https://lillie.work)
 
 - 📫 How to reach me **lillierugtveit@gmail.com**
 

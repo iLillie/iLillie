@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lillie</h1>
-<h3 align="center">A passionate full-stack developer from Norway</h3>
+<img src="https://i.imgur.com/XiAiFSq.png" alt="Girl sitting on computer illustration, full stack developer. Always looking for new challenges">
+<h2>Hi there 👋, I'm Lillie Rugtveit</h2>
 
-- 🔭 I’m currently working on [ITJakt](https://itjakt.no/)
 
 - 🌱 I’m currently learning **ASP.NET Core & Angular**
 

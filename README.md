@@ -1,10 +1,8 @@
 <img src="https://i.imgur.com/XiAiFSq.png" alt="Girl sitting on computer illustration, full stack developer. Always looking for new challenges">
 
-- 🌱 I’m currently learning **ASP.NET Core & Angular**
+- 🌱 I’m currently learning **ASP.NET Core & Nuxt3**
 
-- 👨‍💻 All of my projects are available at [lillie.work](https://lillie.work)
-
-- 📫 How to reach me **lillierugtveit@gmail.com**
+- 📫 How to reach me **LillieRugtveit@gmail.com**
 
 
 

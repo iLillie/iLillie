@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/XiAiFSq.png" alt="Girl sitting on computer illustration, full stack developer. Always looking for new challenges">
 
-- 🌱 I’m currently learning **.NET Web Api & Nuxt3**
+- 🌱 I’m learning **.NET Web Api & Nuxt3**
 
 - 🔭 I’m currently working on [Celestia](https://github.com/iLillie/Celestia)
 
